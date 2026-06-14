@@ -998,7 +998,7 @@
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
       "english": "Accurate long balls %",
-      "value": "Tiri lunghi precisi %"
+      "value": "Passaggi lunghi precisi %"
     },
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
