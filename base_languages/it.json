@@ -451,7 +451,7 @@
     "accessibility_fouls_won": {
       "comment": "Number of fouls a player has won in a match",
       "english": "Fouls won",
-      "value": "Falli vinti"
+      "value": "Falli subiti"
     },
     "accessibility_from_corner": {
       "comment": "A shot setup description. Goal was scored from a corner.",
@@ -3713,7 +3713,7 @@
     },
     "common_fouls": {
       "english": "Fouls committed",
-      "value": "Falli"
+      "value": "Falli commessi"
     },
     "common_free_formation": {
       "comment": "Indicates a free formation in the lineup builder where the user can move positions as they want",
@@ -7862,7 +7862,7 @@
     "notifications_clearances": {
       "comment": "A defensive clearance – where a player under pressure kicks the ball clear of the defensive zone or/and out of play",
       "english": "Clearances",
-      "value": "Rinvii"
+      "value": "Spazzate"
     },
     "notifications_compare_stats": {
       "english": "Compare stats",
@@ -8806,7 +8806,7 @@
     },
     "notifications_matchstats.headers.clerances": {
       "english": "Clearances",
-      "value": "Rinvii"
+      "value": "Spazzate"
     },
     "notifications_matchstats.headers.defenders": {
       "english": "Defenders",
